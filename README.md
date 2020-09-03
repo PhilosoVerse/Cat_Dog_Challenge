@@ -4,8 +4,8 @@ Author: Steven Verkest
 
 GOALS
 
--> make website where you can let a CNN classify your picture of cat or dog
--> (extra) make a movie recommendation system
+- make website where you can let a CNN classify your picture of cat or dog
+- (extra) make a movie recommendation system
 
 -----------------------------------------------------------------------
 
