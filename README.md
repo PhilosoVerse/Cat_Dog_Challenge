@@ -1,6 +1,13 @@
-# Cat_Dog_Challenge
+Author: Steven Verkest
 
-TASKS ->
+GOALS
+
+-> make website where you can let a CNN classify your picture of cat or dog
+-> (extra) make a movie recommendation system
+
+-----------------------------------------------------------------------
+
+TASKS 
 
 1) Train a (binairy) classifier on cat & dogs images , Convolutional Neural Network
 
@@ -8,17 +15,38 @@ TASKS ->
 
 3) Make a recommendation system to answer your questions about a movie.
 
-) Save the models as an .h5
+4) Save the models as an .h5
 
-) Make a webpage with Flask
+5) Make a webpage with Flask
 
-) load models into Flask
+6) load models into Flask -> todo
 
-) safe Flask into docker container
+7) safe Flask into docker container -> todo
 
-) Deploy the container on Heroku
+8) Deploy the container on Heroku -> todo
 
 -----------------------------------------------------------------
 
+WEBAPP
 
+You can try the webapp on -> heroku.com ... -> todo
 
+-----------------------------------------------------------------
+
+TECHNICAL
+
+ - CNN network Transfer
+ - CNN 
+ - movie recommondation system -> X - algorithm   -> todo
+ 
+----------------------------------------------------------------
+ 
+CONTENTS
+ 
+main.py = Web application renderer, core functionality
+Templates-folder =Html-files for front end
+load_models.py = Main flask app python script
+config.py = Configuration file for the flask
+(training_logs.txt Epoch loss and accuracy) -> todo
+Procfile = Tells heroku how to boot
+requirements.txt = For dowloading pip packages
