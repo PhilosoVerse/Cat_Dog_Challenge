@@ -15,7 +15,7 @@ TASKS
 
 2) Train a pretrained classifier on cat & dogs images , Convolutional Neural Network
 
-3) Make a recommendation system to answer your questions about a movie.
+3) Make a recommendation system to answer your questions about a movie. -> todo
 
 4) Save the models as an .h5
 
@@ -45,10 +45,10 @@ TECHNICAL
  
 CONTENTS
  
-main.py = Web application renderer, core functionality
-Templates-folder =Html-files for front end
-load_models.py = Main flask app python script
-config.py = Configuration file for the flask
-(training_logs.txt Epoch loss and accuracy) -> todo
-Procfile = Tells heroku how to boot
-requirements.txt = For dowloading pip packages
+- main.py = Web application renderer, core functionality
+- Templates-folder =Html-files for front end
+- load_models.py = Main flask app python script
+- config.py = Configuration file for the flask
+- (training_logs.txt Epoch loss and accuracy) -> todo
+- Procfile = Tells heroku how to boot
+- requirements.txt = For dowloading pip packages
