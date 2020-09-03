@@ -1,6 +1,6 @@
 # Cat_Dog_Challenge
 
-4 TASKS ->
+TASKS ->
 
 1) Train a (binairy) classifier on cat & dogs images , Convolutional Neural Network
 
@@ -8,7 +8,15 @@
 
 3) Make a recommendation system to answer your questions about a movie.
 
-4) Deploy the models on Heroku
+) Save the models as an .h5
+
+) Make a webpage with Flask
+
+) load models into Flask
+
+) safe Flask into docker container
+
+) Deploy the container on Heroku
 
 -----------------------------------------------------------------
 
